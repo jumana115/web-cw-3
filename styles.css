@@ -1,0 +1,24 @@
+img{display:block;}
+
+ul{list-style-type: none;
+display: inline-block;
+}
+h3{
+    display: inline;
+}
+
+.red{background-color: rgb(245, 89, 89);}
+
+ .green{background-color: seagreen;}
+
+ .blue{background-color: skyblue;}
+
+ table{border: rgb(106, 141, 177);
+    border: 1px double;
+    border-radius:  30px;
+
+
+    
+    }
+
+    
